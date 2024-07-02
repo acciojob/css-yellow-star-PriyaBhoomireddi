@@ -12,7 +12,7 @@ body {
     display: block;
     width: 0px;
     border-right: 100px solid transparent;
-    border-bottom: 70px solid yellow;
+    border-bottom: 100px solid rgb(255, 255, 0);
     border-left: 100px solid transparent;
     transform: rotate(35deg);
     margin-bottom: 70px;
